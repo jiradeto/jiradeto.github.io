@@ -3,7 +3,7 @@
   <channel>
     <title>jiradeto</title>
     <description>the truly plain portfolio</description>
-    <link>https://jiradeto.github.io/</link>
+    <link>http://localhost:4000</link>
     
       
         <item>
@@ -29,8 +29,8 @@
 &lt;p&gt;“On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue; and equal blame belongs to those who fail in their duty through weakness of will, which is the same as saying through shrinking from toil and pain. These cases are perfectly simple and easy to distinguish. In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted. The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains.”&lt;/p&gt;
 </description>
           <pubDate>2015-09-06T00:00:00+08:00</pubDate>
-          <link>https://jiradeto.github.io//lorem-ipsum</link>
-          <guid isPermaLink="true">https://jiradeto.github.io//lorem-ipsum</guid>
+          <link>http://localhost:4000/lorem-ipsum</link>
+          <guid isPermaLink="true">http://localhost:4000/lorem-ipsum</guid>
         </item>
       
     

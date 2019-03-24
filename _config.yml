@@ -1,14 +1,14 @@
 # Site Info
 title:              "jiradeto"
-description:        "the truly plain portfolio"
+description:        "jiradeto : the personal website"
 author_name:        "jiradeto" # change this to your name
 logo_url:           https://media.licdn.com/dms/image/C5103AQE4E5saM2Mraw/profile-displayphoto-shrink_200_200/0?e=1559174400&v=beta&t=jFJuyICrKQDd1oW2wp2KahTeUSvlbL4xiVe5vyJS4rM
 
 # Site Settings
 url:                https://jiradeto.github.io # main url
-baseurl:            /
+baseurl:            
 permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:           Europe/Rome  # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build
