@@ -6,16 +6,18 @@ published: true
 <!DOCTYPE html>
 <html lang="en">
 
-	<head>
-		{% include head.html %}
-	</head>
-	<body>
+<head>
+	{% include head.html %}
+</head>
+
+<body>
+	<!-- <div class="box-wrapper"> -->
 		{% include header.html %}
 		<div id="content">
 			{{ content }}
 		</div>
 		{% include footer.html %}
-
-	</body>
+	<!-- </div> -->
+</body>
 
 </html>
