@@ -93,14 +93,27 @@ blockquote {
   background: #eee;
 }
 
+
+@keyframes bounce {
+  0%, 20%, 50%, 80%, 100% {
+    transform: translateY(0);
+  }
+  40% {
+    transform: translateY(-30px);
+  }
+  60% {
+    transform: translateY(-15px);
+  }
+}
+
 .logo {
   position: relative;
   margin: 0 auto 35px;
   text-align: center;
-  animation: bounce 2s infinite;
-  -webkit-animation: bounce 2s infinite;
-  -moz-animation: bounce 2s infinite;
-  -o-animation: bounce 2s infinite;
+  animation: bounce 4s infinite;
+  -webkit-animation: bounce 4s infinite;
+  -moz-animation: bounce 4s infinite;
+  -o-animation: bounce 4s infinite;
 
 
   a {
@@ -395,6 +408,7 @@ article {
 section {
   max-width: 500px;
   margin: 0 auto 50px auto;
+  text-align: center;
 
   ul {
     list-style: none;
