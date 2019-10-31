@@ -2,7 +2,7 @@
 title:              "jiradeto"
 description:        "jiradeto : the personal website"
 author_name:        "jiradeto" # change this to your name
-logo_url:           https://scontent-mxp1-1.xx.fbcdn.net/v/t1.0-9/65395277_2282295221826202_2245908518714474496_n.jpg?_nc_cat=100&_nc_oc=AQnfSeKbuZqPRxaTCYDBOpsLZgu_eGhDxza17WYFsIrhjYSLhM--25YLIzVGQs1IHko&_nc_ht=scontent-mxp1-1.xx&oh=8221e4f06dd4f1719276ca8db6ed1a2c&oe=5DB9F1D9
+logo_url:           /assets/favicon.png
 
 # Site Settings
 url:                https://jiradeto.github.io # main url
