@@ -2,7 +2,7 @@
 title:              "jiradeto"
 description:        "jiradeto : the personal website"
 author_name:        "jiradeto" # change this to your name
-logo_url:           /assets/me.jpg
+logo_url:           /assets/me.png
 
 # Site Settings
 url:                https://jiradeto.github.io # main url
